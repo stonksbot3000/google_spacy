@@ -6,7 +6,7 @@ LONG_DESCRIPTION = ''
 
 # Setting up
 setup(
-    name="GoogleSpacy",
+    name="google-spacy-wrapper",
     version=VERSION,
     author="PySlayer (Paul Antweiler)",
     author_email="antweiler.paul@gmail.com",
