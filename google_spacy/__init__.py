@@ -1,1 +1,0 @@
-from google_spacy.google_spacy import GoogleSpacy
